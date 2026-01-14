@@ -23,6 +23,4 @@ Order Volume: Quantified total orders placed in 2017 to establish a performance 
 2. Operational Analysis 
 Revenue by Category: Discovered which product categories (e.g., Health & Beauty, Watches) drive the most value.
 
-Payment Preferences: Analyzed the percentage split between Credit Cards, Boleto, and Vouchers to optimize checkout flows.
-
 Logistics Hotspots: Identified the top 10 revenue-generating cities to suggest localized warehouse placement.
